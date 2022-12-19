@@ -10,6 +10,8 @@ Repositório para listar meus repositórios de aulas, desafios e projetos feitos
 
 - [Módulo 01 - Fundamentos do ReactJS](https://github.com/brunoluran/rocketseat-ignite-react-ignite-feed)
 - [Módulo 02 - Criando SPAs com REACT JS](https://github.com/brunoluran/rocketseat-ignite-react-ignite-timer)
+- [Módulo 03 - Consumo de API e performance no React JS](https://github.com/brunoluran/rocketseat-ignite-react-ignite-dt-money)
+
 
 ### Desafios
 
